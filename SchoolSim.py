@@ -1,0 +1,2 @@
+class SchoolSim:
+	pass

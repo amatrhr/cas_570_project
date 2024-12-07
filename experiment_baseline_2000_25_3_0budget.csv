@@ -1,0 +1,7 @@
+,r2,pct_budgetary,pct_performant,decision_length
+gpl:3;noise:False;A:0.1,0.7972247222344272,1.0,0.375,13.0
+gpl:3;noise:False;A:0.9,0.958673318245242,1.0,0.46875,13.0
+gpl:3;noise:False;A:None,0.9232935310114624,1.0,0.421875,12.0
+gpl:3;noise:True;A:0.1,0.7154502810677394,1.0,0.28125,12.0
+gpl:3;noise:True;A:0.9,0.733255201754313,1.0,0.203125,9.0
+gpl:3;noise:True;A:None,0.7646440324695107,1.0,0.25,9.5
